@@ -1,5 +1,0 @@
-Este é um exemplo de arquivo de teste.
-Ele contém algumas linhas de texto que podem ser lidas pelo programa
-em C.
-Você pode adicionar mais linhas de texto ou conteúdo, conforme
-necessário.:) 
